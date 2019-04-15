@@ -1,5 +1,5 @@
 # appread
-primera aplicación read-
+primera aplicación react-
 
 app en react
 
