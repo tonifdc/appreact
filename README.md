@@ -1,2 +1,5 @@
 # appread
-primera aplicación read
+primera aplicación read-
+
+app en react
+
